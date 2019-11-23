@@ -19,6 +19,7 @@ Why not.
 * SFW
 * Still humanly viewable
 * Some sort of image (Any image format works)
+* Naming follows the scheme of `amin_<your username>_image<number based on how many images you've uploaded>`
 
 ## How to contribute
 
